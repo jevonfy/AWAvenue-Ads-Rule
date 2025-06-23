@@ -839,7 +839,7 @@ payload:
   - DOMAIN,ytx-file.110route.cn
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zhihu-web-analytics.zhihu.com
-  - DOMAIN-REGEX,^.*.*.shouji.sogou.com$
+  - DOMAIN-REGEX,^.*.shouji.sogou.com$
   - DOMAIN-REGEX,^.*.1rtb.com$
   - DOMAIN-REGEX,^.*.a.market.xiaomi.com$
   - DOMAIN-REGEX,^.*.ad.gameley.com$
