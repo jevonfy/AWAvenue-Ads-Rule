@@ -838,7 +838,7 @@
 ||ytx-file.110route.cn^
 ||zeus.ad.xiaomi.com^
 ||zhihu-web-analytics.zhihu.com^
-/.*.*.shouji.sogou.com/
+/.*.shouji.sogou.com/
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
 /.*.ad.gameley.com/
